@@ -15,8 +15,7 @@ $EM_CONF[$_EXTKEY] = array(
     'clearCacheOnLoad' => 1,
     'constraints' => array(
         'depends' => array(
-            'typo3' => '7.6.0-8.0.99',
-            'filemetadata' => '',
+            'typo3' => '7.6.0-8.0.99'
         ),
         'conflicts' => array(),
         'suggests' => array(
